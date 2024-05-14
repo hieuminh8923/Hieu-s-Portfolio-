@@ -5,9 +5,14 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 */
 
-
+-- Go over the data on the Project
 Select *
 From [Project 1]..CovidDeaths$
+Where continent is not null 
+order by 3,4
+
+Select *
+From [Project 1]..CovidVaccinations$
 Where continent is not null 
 order by 3,4
 
@@ -68,8 +73,6 @@ From [Project 1]..CovidDeaths$
 where continent is not null 
 order by 1,2
 
-
-
 -- 8. Shows Percentage of Population that has recieved at least one Covid Vaccine
 Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
 , SUM(CAST(vac.new_vaccinations as bigint)) OVER (Partition by dea.Location Order by dea.location, dea.Date) as RollingPeopleVaccinated
@@ -79,7 +82,6 @@ Join [Project 1]..CovidVaccinations$ vac
 	and dea.date = vac.date
 where dea.continent is not null 
 order by 2,3
-
 
 -- 9. Using CTE to perform Calculation of 'Rolling Percentage of vacinated people over population' on Partition By in previous query
 
@@ -96,8 +98,6 @@ where dea.continent is not null
 )
 Select *, (RollingPeopleVaccinated/Population)*100 as RollingVaccinnatedPercentage
 From PopvsVac
-
-
 
 -- 10 Using Temp Table to perform Calculation of 'Rolling Percentage of vacinated people over population' on Partition By in previous query
 
@@ -123,9 +123,6 @@ where dea.continent is not null
 
 Select *, (RollingPeopleVaccinated/Population)*100 as RollingVaccinatedPercentage
 From #PercentPopulationVaccinated
-
-
-
 
 -- 11. Creating View to store data for later visualizations
 
