@@ -27,9 +27,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Basic Exploratory Data Analysis of HPG Stock Price](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/README.md#basic-exploratory-data-analysis-of-hpg-stock-price)
 
-- [Education]
-- [Certificates]
-- [Contact]
+- [Education](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/README.md#education)
+- [Certificates](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/README.md#certificates)
+- [Contact](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
