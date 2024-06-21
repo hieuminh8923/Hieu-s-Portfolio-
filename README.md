@@ -46,13 +46,63 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 From the database, identify customers who need to use financial services, the influence of demographic factors, the satisfaction status of customers using the service as well as the purpose of service use
 
+**Technology:** Excel 
+
 ### Covid 19 Exploratory Analysis
 **Code:** [ Covid 19 Exploratory Analysis]([url](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/SQL_Covid19_EDA))
-**Goal:** 
 
-**Description:**  The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Visualisation :**[Covid 19 Exploratory Data Visualization](https://public.tableau.com/app/profile/hieu.duong5905/viz/Project1-Tableau_17167468973560/Dashboard1)
+
+**Goal:** From this data, consider the current situation and severity of the covid 19 epidemic in the period from 2022 to 2024. At the same time, consider the effectiveness of vaccination in reducing deaths caused by Covid 19.
+
+**Description:**  The dataset contains records of Covid-19 cases, deaths and vaccine records by country in the period 1/1/2022 - 4/4/2024. The data management process includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis). The infomation drawn from the analysis then visualized into insightful visualisation
+
+**Results** The analysis identified a clear link between vaccination and reduced COVID-19 severity. Death rates dropped significantly as vaccination rates rose. It also provided a geographical perspective, comparing how different regions fared based on vaccination coverage. The analysis further emphasized the effectiveness of vaccination by demonstrating a correlation between higher vaccination rates and lower death tolls, as well as less severe outbreaks. To illustrate these trends and connections, data visualizations like line graphs, bar charts, and heat maps were created.
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+**Technology:** SQL Server, Tableau
+
+## Data Cleaning and Preprocessing for Nashville Housing Market
+
+**Code:** [ Data Cleaning and Preprocessing for Nashville Housing Market](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/SQL_Nashville_Housing_Data_Cleaning)
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server
+
+## Global Life Expectancy Trends Analysis 
+
+**Code:** [Global Life Expectancy Trends Analysis ](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/SQL_World_Life_Expectancy_Analysis))
+
+**Visualisation :** [Global Life Expectancy Trends Analysis ](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/Power%20BI_World%20Life%20Expectancy.pbix)
+
+**Description:** This dataset includes records of countries around the world about their Life Expectancy in the period from 2017 to 2022, in addition to potential factors affecting life expectancy such as GPD, Schooling, Diseases and Health Indicators. This project demonstrates a complete process of data analysis and processing from steps: data import, data cleaning, data preprocessing, data exploration, getting insights, visualization. 
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Dealing with Outliners, Specifying Statistical indicators
+
+**Technology:** My SQL, Power BI
+
+## Data Profession Survey Visualization
+
+**Visualisation :** [Global Life Expectancy Trends Analysis ](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/Power%20BI_World%20Life%20Expectancy.pbix)
+
+**Description:**  This dataset includes answers from experts working in the data field around the world about the important characteristics, concepts, and factors that influence the decision to work and stay long-term in a job in the data field. . Factors such as compensation, career advancement, job satisfaction, country, age are taken into consideration and create an insightful visualization.
+
+**Skills:** Data Modeling, DAX, Visualization
+
+**Technology:** Power BI
+
+## Basic Exploratory Data Analysis of HPG Stock Price
+
+**Code:** [Basic Exploratory Data Analysis of HPG Stock Price ](https://github.com/hieuminh8923/Hieu-s-Portfolio-/blob/main/Python_Basic%20Exploratory%20Data%20Analysis%20of%20HPG%20Stock%20Price)
+
+**Description:**  This dataset includes information about Hoa Phat Group's shares in the period from 2018 to 2023. Information includes closing price, opening price, highest price, lowest price, volume and percentage change every day. This project is carried out to evaluate and analyze the characteristics and potential of Hoa Phat shares
+
+**Skills:** pandas, numpy, matplotlib.pyplot, seaborn
+
+**Technology:** Python
 
 
