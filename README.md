@@ -112,6 +112,7 @@ Sep 2021 - Dec 2024
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here are a few work-related certifications I've earned over time:
+
 Google - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/U8G4CPCESUJX) - May 2024
 
 HackerRank – [SQL Advanced Certificate](https://www.hackerrank.com/certificates/04cde9f9e9ea) - May 2024
