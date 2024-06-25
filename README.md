@@ -113,8 +113,11 @@ Sep 2021 - Dec 2024
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here are a few work-related certifications I've earned over time:
 Google - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/U8G4CPCESUJX) - May 2024
+
 HackerRank – [SQL Advanced Certificate](https://www.hackerrank.com/certificates/04cde9f9e9ea) - May 2024
+
 Simplilearn – [Power BI for Beginnners](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNjc5NzM4MF8xNzE4OTU2ODI0LnBuZyIsInVzZXJuYW1lIjoiRFx1MDFiMFx1MDFhMW5nIE1pbmggSGlcdTFlYmZ1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4211%2FPower-BI-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1252543121271999669&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FV9y6xzDJLKy938k4CAGT1ZlklAAAA) - June 2024
+
 IDP - [International English Language Testing System (IELST): 7.0] - March 2020
 
 ## Contacts
